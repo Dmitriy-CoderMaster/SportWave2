@@ -13,3 +13,57 @@
 2026-04-22 11:45:29 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
 2026-04-22 11:45:30 INFO  [org.example.Main] — ✅ Bot is running!
 2026-04-22 11:45:30 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='🔐 Админ'
+2026-04-22 13:31:31 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-22 13:31:31 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-22 13:31:31 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-22 13:31:31 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-22 13:31:31 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-22 13:31:31 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@47e2e487
+2026-04-22 13:31:31 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-22 13:31:31 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-22 13:31:31 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-22 13:31:31 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-22 13:31:31 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-22 13:31:31 INFO  [org.example.Main] — ▶ Admins: [1004193078, 6688348215, 5656532611, 6569272292]
+2026-04-22 13:31:32 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-22 13:31:33 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-22 13:32:02 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛍 Каталог'
+2026-04-22 13:39:19 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-22 13:39:19 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-22 13:39:19 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-22 13:39:19 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-22 13:39:20 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-22 13:39:20 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-22 13:39:20 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-22 13:39:20 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-22 13:39:20 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-22 13:39:20 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@47e2e487
+2026-04-22 13:39:20 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-22 13:39:20 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-22 13:39:20 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-22 13:39:20 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-22 13:39:20 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-22 13:39:20 INFO  [org.example.Main] — ▶ Admins: [1004193078, 6569272292, 5656532611, 6688348215]
+2026-04-22 13:39:21 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-22 13:39:21 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-22 14:06:44 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🔐 Админ'
+2026-04-22 14:06:48 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:users'
+2026-04-22 14:06:53 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:revenue'
+2026-04-22 14:15:07 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-22 14:15:07 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-22 14:15:07 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-22 14:15:07 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-22 14:15:09 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-22 14:15:09 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-22 14:15:09 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-22 14:15:09 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-22 14:15:09 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-22 14:15:09 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@47e2e487
+2026-04-22 14:15:09 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-22 14:15:09 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-22 14:15:09 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-22 14:15:09 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-22 14:15:09 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-22 14:15:09 INFO  [org.example.Main] — ▶ Admins: [6569272292, 1004193078, 6688348215, 5656532611]
+2026-04-22 14:15:10 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-22 14:15:10 INFO  [org.example.Main] — ✅ Bot is running!
