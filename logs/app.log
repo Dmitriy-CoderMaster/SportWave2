@@ -1,0 +1,353 @@
+2026-04-21 08:58:50 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-21 08:58:50 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-21 08:58:50 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-21 08:58:50 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-21 08:58:50 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-21 08:58:51 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@4b0d79fc
+2026-04-21 08:58:51 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-21 08:58:51 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-21 08:58:51 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-21 08:58:51 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-21 08:58:51 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-21 08:58:51 INFO  [org.example.Main] — ▶ Admins: [6688348215, 5656532611, 6569272292, 1004193078]
+2026-04-21 08:58:51 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-21 08:58:52 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-21 08:58:52 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='🛍 Каталог'
+2026-04-21 08:58:52 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='🔐 Админ'
+2026-04-21 09:17:39 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🔐 Админ'
+2026-04-21 09:17:40 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:stats'
+2026-04-21 09:17:47 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:orders'
+2026-04-21 09:17:58 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:8C865333:SHIPPED'
+2026-04-21 09:18:25 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:8C865333:CONFIRMED'
+2026-04-21 09:27:49 WARN  [c.z.h.pool.HikariPool] — SportWavePool - Thread starvation or clock leap detected (housekeeper delta=2m28s15ms436µs).
+2026-04-21 09:28:04 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:8C865333:DELIVERED'
+2026-04-21 09:28:08 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:8C865333:CANCELLED'
+2026-04-21 09:28:10 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:menu'
+2026-04-21 09:28:16 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:users'
+2026-04-21 09:34:17 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='/start'
+2026-04-21 09:34:34 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='ℹ️ О нас'
+2026-04-21 09:34:42 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='🎁 Наборы'
+2026-04-21 09:34:53 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='p:set_box'
+2026-04-21 09:35:10 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='cart_add:set_box'
+2026-04-21 09:35:12 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='q:1'
+2026-04-21 09:35:41 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='checkout_cart'
+2026-04-21 09:35:54 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='772639010'
+2026-04-21 09:36:13 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='tashkent ,5kvartl 44a'
+2026-04-21 09:36:16 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='pay_cash'
+2026-04-21 09:37:54 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='ok'
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ╔══════════════════════════════════════════════════════════╗
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ║  📦  ЗАКАЗ #D276BBDA СОХРАНЁН В БД
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ╠══════════════════════════════════════════════════════════╣
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ║  👤 Abdulloh (@abu_giga) id=7694331339
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ║  🏷  Набор начинающего боксёра × 1 = 130000 сум
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ║  💰 130000 сум | 💵 Наличные при получении
+2026-04-21 09:37:55 INFO  [org.example.OrderService] — ╚══════════════════════════════════════════════════════════╝
+2026-04-21 09:37:55 ERROR [org.example.Bot] — ❌ send chat=6688348215: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-21 09:37:55 ERROR [org.example.Bot] — ❌ send chat=5656532611: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-21 09:37:55 ERROR [org.example.Bot] — ❌ send chat=6569272292: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-21 09:37:56 ERROR [org.example.Bot] — ❌ send chat=1004193078: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-21 09:40:02 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-21 09:40:02 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-21 09:40:02 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-21 09:40:02 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-21 09:40:05 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-21 09:40:05 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-21 09:40:05 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-21 09:40:05 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-21 09:40:05 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-21 09:40:05 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@47e2e487
+2026-04-21 09:40:05 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-21 09:40:05 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-21 09:40:05 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-21 09:40:05 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-21 09:40:05 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-21 09:40:05 INFO  [org.example.Main] — ▶ Admins: [6569272292, 1004193078, 6688348215, 5656532611]
+2026-04-21 09:40:06 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-21 09:40:06 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-21 09:49:00 WARN  [c.z.h.pool.HikariPool] — SportWavePool - Thread starvation or clock leap detected (housekeeper delta=1m24s78ms247µs400ns).
+2026-04-21 09:56:36 WARN  [c.z.h.pool.HikariPool] — SportWavePool - Thread starvation or clock leap detected (housekeeper delta=7m36s629ms300ns).
+2026-04-21 10:35:55 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-21 10:35:55 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-21 10:35:55 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-21 10:35:55 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-21 10:35:57 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-21 10:35:57 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-21 10:35:57 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-21 10:35:57 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-21 10:35:57 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-21 10:35:57 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@61001b64
+2026-04-21 10:35:57 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-21 10:35:57 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-21 10:35:57 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-21 10:35:57 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-21 10:35:57 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-21 10:35:57 INFO  [org.example.Main] — ▶ Admins: [6688348215, 1004193078, 6569272292, 5656532611]
+2026-04-21 10:35:57 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-21 10:35:58 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-21 10:37:21 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:menu'
+2026-04-21 10:37:24 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:supply'
+2026-04-21 10:37:25 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:orders'
+2026-04-21 10:37:29 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:SHIPPED'
+2026-04-21 10:37:30 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:SHIPPED'
+2026-04-21 10:37:32 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:SHIPPED'
+2026-04-21 10:37:46 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:CONFIRMED'
+2026-04-21 10:37:48 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:DELIVERED'
+2026-04-21 10:37:50 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:menu'
+2026-04-21 10:37:53 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:CONFIRMED'
+2026-04-21 10:37:55 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:SHIPPED'
+2026-04-21 10:38:09 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:orders'
+2026-04-21 10:38:11 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:DELIVERED'
+2026-04-21 10:39:18 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:CONFIRMED'
+2026-04-21 10:39:23 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:CONFIRMED'
+2026-04-21 10:39:29 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:D276BBDA:DELIVERED'
+2026-04-21 10:39:32 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:menu'
+2026-04-21 10:46:44 ERROR [o.t.t.u.DefaultBotSession] — Этот хост неизвестен (api.telegram.org)
+java.net.UnknownHostException: Этот хост неизвестен (api.telegram.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1128)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1697)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1056)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:46:45 ERROR [o.t.t.u.DefaultBotSession] — api.telegram.org
+java.net.UnknownHostException: api.telegram.org
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:905)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:46:45 ERROR [o.t.t.u.DefaultBotSession] — api.telegram.org
+java.net.UnknownHostException: api.telegram.org
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:905)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:46:46 ERROR [o.t.t.u.DefaultBotSession] — api.telegram.org
+java.net.UnknownHostException: api.telegram.org
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:905)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:46:48 ERROR [o.t.t.u.DefaultBotSession] — api.telegram.org
+java.net.UnknownHostException: api.telegram.org
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:905)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:46:51 ERROR [o.t.t.u.DefaultBotSession] — api.telegram.org
+java.net.UnknownHostException: api.telegram.org
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:905)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:46:55 ERROR [o.t.t.u.DefaultBotSession] — Этот хост неизвестен (api.telegram.org)
+java.net.UnknownHostException: Этот хост неизвестен (api.telegram.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1128)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1697)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1056)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:47:02 ERROR [o.t.t.u.DefaultBotSession] — api.telegram.org
+java.net.UnknownHostException: api.telegram.org
+	at java.base/java.net.InetAddress$CachedLookup.get(InetAddress.java:905)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:47:07 ERROR [o.t.t.u.DefaultBotSession] — Этот хост неизвестен (api.telegram.org)
+java.net.UnknownHostException: Этот хост неизвестен (api.telegram.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1128)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1697)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1056)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:47:24 ERROR [o.t.t.u.DefaultBotSession] — Этот хост неизвестен (api.telegram.org)
+java.net.UnknownHostException: Этот хост неизвестен (api.telegram.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1128)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1697)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1056)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:47:41 ERROR [o.t.t.u.DefaultBotSession] — Этот хост неизвестен (api.telegram.org)
+java.net.UnknownHostException: Этот хост неизвестен (api.telegram.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1128)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1697)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1056)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:48:19 ERROR [o.t.t.u.DefaultBotSession] — Этот хост неизвестен (api.telegram.org)
+java.net.UnknownHostException: Этот хост неизвестен (api.telegram.org)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52)
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1128)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1697)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1056)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1687)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1568)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:249)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-21 10:49:28 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-21 10:49:28 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-21 10:49:28 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-21 10:49:28 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-21 11:18:43 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-21 11:18:43 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-21 11:18:43 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-21 11:18:43 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-21 11:18:43 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-21 11:18:43 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@61001b64
+2026-04-21 11:18:43 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-21 11:18:43 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-21 11:18:43 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-21 11:18:43 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-21 11:18:43 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-21 11:18:43 INFO  [org.example.Main] — ▶ Admins: [6688348215, 1004193078, 6569272292, 5656532611]
+2026-04-21 11:18:44 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-21 11:18:44 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-21 11:36:10 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-21 11:36:10 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-21 11:36:10 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-21 11:36:10 INFO  [org.example.Database] — 🔌 DB pool closed
