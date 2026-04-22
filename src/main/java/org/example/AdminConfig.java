@@ -20,14 +20,15 @@ public class AdminConfig {
     // ── Вставь сюда chat_id администраторов ──────────────────────────────────
 
     public static final long ADMIN_1 = 6688348215L;   // ← впиши свой chat_id
-    public static final long ADMIN_2 = 5656532611L;   // ← второй админ
-    public static final long ADMIN_3 = 6569272292L;   // ← третий администраторов
-   public static final long ADMIN_4 = 1004193078L;   // ← четвёртый админ
+//    public static final long ADMIN_2 = 5656532611L;   // ← второй админ
+//    public static final long ADMIN_3 = 6569272292L;   // ← третий администраторов
+//   public static final long ADMIN_4 = 1004193078L;   // ← четвёртый админ
 
     // ─────────────────────────────────────────────────────────────────────────
 
     private static final Set<Long> ADMIN_IDS = Set.of(
-        ADMIN_1, ADMIN_2, ADMIN_3, ADMIN_4
+ADMIN_1
+//  ADMIN_2, ADMIN_3, ADMIN_4
     ).stream().filter(id -> id != 0L)
      .collect(java.util.stream.Collectors.toUnmodifiableSet());
 

@@ -67,3 +67,483 @@
 2026-04-22 14:15:09 INFO  [org.example.Main] — ▶ Admins: [6569272292, 1004193078, 6688348215, 5656532611]
 2026-04-22 14:15:10 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
 2026-04-22 14:15:10 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-22 14:17:20 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛍 Каталог'
+2026-04-22 14:17:55 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🎁 Наборы'
+2026-04-22 14:19:28 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='p:set_mma'
+2026-04-22 14:21:15 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛒 Корзина'
+2026-04-22 14:21:17 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='❓ Помощь'
+2026-04-22 14:21:21 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛍 Каталог'
+2026-04-22 14:21:24 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🎁 Наборы'
+2026-04-22 14:21:25 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='p:set_box'
+2026-04-22 14:21:34 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛍 Каталог'
+2026-04-22 14:21:44 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='/start'
+2026-04-22 14:21:49 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🎁 Наборы'
+2026-04-22 14:21:52 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛒 Корзина'
+2026-04-22 14:21:53 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🛍 Каталог'
+2026-04-22 14:21:54 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='cat:boxing'
+2026-04-22 14:21:55 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='p:box_helmet'
+2026-04-22 14:22:05 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='cart_add:box_helmet'
+2026-04-22 14:22:06 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='q:2'
+2026-04-22 14:22:14 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='checkout_cart'
+2026-04-22 14:22:20 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='93939'
+2026-04-22 14:22:26 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='998 90 999 83 93'
+2026-04-22 14:22:30 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='werwerwerw'
+2026-04-22 14:22:32 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='pay_cash'
+2026-04-22 14:22:34 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='ok'
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ╔══════════════════════════════════════════════════════════╗
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ║  📦  ЗАКАЗ #13D97F4B СОХРАНЁН В БД
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ╠══════════════════════════════════════════════════════════╣
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ║  👤 ⛧ (@) id=6688348215
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ║  🏷  Шлем боксёрский × 2 = 240000 сум
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ║  💰 240000 сум | 💵 Наличные при получении
+2026-04-22 14:22:34 INFO  [org.example.OrderService] — ╚══════════════════════════════════════════════════════════╝
+2026-04-22 14:22:35 ERROR [org.example.Bot] — ❌ send chat=6569272292: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: chat not found
+2026-04-22 14:22:50 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='🔐 Админ'
+2026-04-22 14:22:52 INFO  [org.example.Bot] — 📨 chat=5656532611 user='Akbar' text='🔐 Админ'
+2026-04-22 14:22:52 INFO  [org.example.Bot] — 🖱 chat=1004193078 user='swaga' data='adm:users'
+2026-04-22 14:23:02 INFO  [org.example.Bot] — 🖱 chat=5656532611 user='Akbar' data='adm:orders'
+2026-04-22 14:23:10 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='/start'
+2026-04-22 14:23:15 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🔐 Админ'
+2026-04-22 14:23:25 INFO  [org.example.Bot] — 🖱 chat=5656532611 user='Akbar' data='adm:setstatus:13D97F4B:CONFIRMED'
+2026-04-22 14:27:31 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='📋 Заказы'
+2026-04-22 14:27:37 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='🛍 Каталог'
+2026-04-22 14:27:42 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='cat:karate'
+2026-04-22 14:27:48 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='p:set_krt'
+2026-04-22 14:27:53 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='buy:set_krt'
+2026-04-22 14:27:56 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='q:3'
+2026-04-22 14:27:58 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='checkout_cart'
+2026-04-22 14:28:11 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='98 2230101'
+2026-04-22 14:28:17 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='yerdi ami'
+2026-04-22 14:28:21 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='pay_cash'
+2026-04-22 14:28:23 INFO  [org.example.Bot] — 🖱 chat=7694331339 user='Abdulloh' data='ok'
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ╔══════════════════════════════════════════════════════════╗
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ║  📦  ЗАКАЗ #8ED004D3 СОХРАНЁН В БД
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ╠══════════════════════════════════════════════════════════╣
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ║  👤 Abdulloh (@abu_giga) id=7694331339
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ║  🏷  Набор каратека-новичка × 3 = 570000 сум
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ║  💰 570000 сум | 💵 Наличные при получении
+2026-04-22 14:28:23 INFO  [org.example.OrderService] — ╚══════════════════════════════════════════════════════════╝
+2026-04-22 14:28:23 ERROR [org.example.Bot] — ❌ send chat=6569272292: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-22 14:28:23 ERROR [org.example.Bot] — ❌ send chat=1004193078: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-22 14:28:23 ERROR [org.example.Bot] — ❌ send chat=6688348215: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-22 14:28:23 ERROR [org.example.Bot] — ❌ send chat=5656532611: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 256
+2026-04-22 14:28:23 ERROR [org.example.Bot] — ❌ send chat=6569272292: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: chat not found
+2026-04-22 14:28:27 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='📋 Заказы'
+2026-04-22 14:28:40 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='📋 Заказы'
+2026-04-22 14:28:42 INFO  [org.example.Bot] — 📨 chat=6688348215 user='⛧' text='🔐 Админ'
+2026-04-22 14:28:43 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:orders'
+2026-04-22 14:28:53 INFO  [org.example.Bot] — 🖱 chat=6688348215 user='⛧' data='adm:setstatus:8ED004D3:SHIPPED'
+2026-04-22 14:29:04 INFO  [org.example.Bot] — 📨 chat=7694331339 user='Abdulloh' text='📋 Заказы'
+2026-04-22 14:34:01 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='🔐 Админ'
+2026-04-22 14:34:03 INFO  [org.example.Bot] — 🖱 chat=1004193078 user='swaga' data='adm:supply'
+2026-04-22 14:34:05 INFO  [org.example.Bot] — 🖱 chat=1004193078 user='swaga' data='supply:cat:karate'
+2026-04-22 14:34:10 INFO  [org.example.Bot] — 🖱 chat=1004193078 user='swaga' data='supply:prod:krt_gi_b'
+2026-04-22 14:34:20 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='40'
+2026-04-22 14:34:29 INFO  [org.example.Bot] — 🖱 chat=1004193078 user='swaga' data='supply:prod:set_krt'
+2026-04-22 14:34:31 INFO  [org.example.Bot] — 📨 chat=1004193078 user='swaga' text='50'
+2026-04-22 14:35:10 INFO  [org.example.Bot] — 📨 chat=5289154803 user='Chayhooan.🎱' text='/start'
+2026-04-22 14:35:17 INFO  [org.example.Bot] — 📨 chat=5289154803 user='Chayhooan.🎱' text='🛍 Каталог'
+2026-04-22 14:35:40 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-22 14:35:40 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-22 14:35:40 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-22 14:35:40 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-22 14:35:40 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-22 14:35:40 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@47e2e487
+2026-04-22 14:35:40 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-22 14:35:40 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-22 14:35:40 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-22 14:35:40 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-22 14:35:40 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-22 14:35:40 INFO  [org.example.Main] — ▶ Admins: [5656532611, 6569272292, 1004193078, 6688348215]
+2026-04-22 14:35:41 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-22 14:35:41 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-22 14:35:41 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-22 14:35:41 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-22 14:35:41 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-22 14:35:41 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-22 14:35:41 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-22 14:35:41 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@61001b64
+2026-04-22 14:35:41 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-22 14:35:41 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-22 14:35:41 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-22 14:35:41 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-22 14:35:41 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-22 14:35:41 INFO  [org.example.Main] — ▶ Admins: [5656532611, 6688348215, 1004193078, 6569272292]
+2026-04-22 14:35:42 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:42 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-22 14:35:42 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-22 14:35:46 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:46 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:46 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:49 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:50 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:50 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:35:52 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='cat:volleyball'
+2026-04-22 14:35:52 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-22 14:35:52 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-22 14:35:52 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-22 14:35:52 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-22 14:35:53 INFO  [org.example.Main] — 🛑 Shutting down...
+2026-04-22 14:35:53 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown initiated...
+2026-04-22 14:35:53 INFO  [c.z.h.HikariDataSource] — SportWavePool - Shutdown completed.
+2026-04-22 14:35:53 INFO  [org.example.Database] — 🔌 DB pool closed
+2026-04-22 14:35:54 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:36:46 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='p:vb_ball'
+2026-04-22 14:36:49 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='cart_add:vb_ball'
+2026-04-22 14:36:52 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='q:1'
+2026-04-22 14:37:05 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='catalog'
+2026-04-22 14:37:08 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='cat:football'
+2026-04-22 14:37:10 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='p:ftb_boot_g'
+2026-04-22 14:37:12 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='cart_add:ftb_boot_g'
+2026-04-22 14:37:14 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='q:1'
+2026-04-22 14:37:16 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='checkout_cart'
+2026-04-22 14:37:25 INFO  [org.example.Bot] — 📨 chat=5289154803 user='Chayhooan.🎱' text='+666'
+2026-04-22 14:37:39 INFO  [org.example.Bot] — 📨 chat=5289154803 user='Chayhooan.🎱' text='+666моицифры'
+2026-04-22 14:37:44 INFO  [org.example.Main] — ╔══════════════════════════════════╗
+2026-04-22 14:37:44 INFO  [org.example.Main] — ║  🏆 SportWave Bot  STARTING...   ║
+2026-04-22 14:37:44 INFO  [org.example.Main] — ╚══════════════════════════════════╝
+2026-04-22 14:37:44 INFO  [org.example.Database] — 📦 Connecting to PostgreSQL: postgres@localhost:5432/sportwave
+2026-04-22 14:37:44 INFO  [c.z.h.HikariDataSource] — SportWavePool - Starting...
+2026-04-22 14:37:44 INFO  [c.z.h.pool.HikariPool] — SportWavePool - Added connection org.postgresql.jdbc.PgConnection@47e2e487
+2026-04-22 14:37:44 INFO  [c.z.h.HikariDataSource] — SportWavePool - Start completed.
+2026-04-22 14:37:44 INFO  [org.example.Database] — ✅ DB pool created
+2026-04-22 14:37:44 INFO  [org.example.Database] — ✅ DB schema ready
+2026-04-22 14:37:44 INFO  [org.example.StatsService] — ✅ Stats tables ready
+2026-04-22 14:37:44 INFO  [org.example.Main] — ▶ Bot: @SportWave
+2026-04-22 14:37:44 INFO  [org.example.Main] — ▶ Admins: [6688348215]
+2026-04-22 14:37:44 INFO  [org.example.Bot] — 🤖 Bot: @SportWave
+2026-04-22 14:37:45 INFO  [org.example.Main] — ✅ Bot is running!
+2026-04-22 14:37:45 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:37:49 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:37:50 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:37:53 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:37:54 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:37:55 INFO  [org.example.Bot] — 📨 chat=5289154803 user='Chayhooan.🎱' text='Мусорный пакет'
+2026-04-22 14:37:58 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:37:58 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:02 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:03 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:06 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:07 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:08 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='pay_cash'
+2026-04-22 14:38:11 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:11 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:12 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='ok'
+2026-04-22 14:38:12 INFO  [org.example.Bot] — 🖱 chat=5289154803 user='Chayhooan.🎱' data='ok'
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ╔══════════════════════════════════════════════════════════╗
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ║  📦  ЗАКАЗ #FA7C5431 СОХРАНЁН В БД
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ╠══════════════════════════════════════════════════════════╣
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ║  👤 Chayhooan.🎱 (@chayhooann) id=5289154803
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ║  🏷  Мяч волейбольный Mikasa × 1 = 80000 сум
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ║  🏷  Бутсы для травы (шипы) × 1 = 280000 сум
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ║  💰 360000 сум | 💵 Наличные при получении
+2026-04-22 14:38:12 INFO  [org.example.OrderService] — ╚══════════════════════════════════════════════════════════╝
+2026-04-22 14:38:12 ERROR [org.example.Bot] — ❌ send chat=6569272292: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [400] Bad Request: chat not found
+2026-04-22 14:38:15 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:16 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:20 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:20 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:24 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:25 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:28 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:29 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:33 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:33 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:37 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:38 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:41 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:42 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:46 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:46 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:50 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:50 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:54 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:55 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:58 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:38:59 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:39:03 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:39:04 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:39:07 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2026-04-22 14:39:08 ERROR [o.t.t.u.DefaultBotSession] — Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
