@@ -14,22 +14,22 @@ public class Catalog {
     static {
         // ══════════ 🏀 БАСКЕТБОЛ ══════════
         add("bsk_ball_st","Мяч баскетбольный (улица)","🏀","Резина, размер 7",89000,"basketball","all",40,
-                "https://source.unsplash.com/600x400/?basketball,ball,outdoor");
+                "https://source.unsplash.com/600x400/?outdoor,basketball,ball,rubber");
 
         add("bsk_ball_h","Мяч баскетбольный (зал)","🏀","Натуральная кожа, размер 7",145000,"basketball","pro",20,
-                "https://source.unsplash.com/600x400/?basketball,leather,ball,indoor");
+                "https://source.unsplash.com/600x400/?indoor,basketball,leather,ball");
 
         add("bsk_shoes","Кроссовки Nike баскетбол","👟","Высокий верх, амортизация",420000,"basketball","all",15,
-                "https://source.unsplash.com/600x400/?basketball,sneakers,nike,shoes");
+                "https://source.unsplash.com/600x400/?nike,basketball,shoes,sneakers");
 
         add("bsk_jersey","Форма баскетбольная","🏅","Майка + шорты",110000,"basketball","all",30,
-                "https://source.unsplash.com/600x400/?basketball,jersey,uniform");
+                "https://source.unsplash.com/600x400/?basketball,jersey,uniform,team");
 
         add("bsk_knee","Наколенники баскетбол","🦵","Компрессионные",45000,"basketball","all",50,
-                "https://source.unsplash.com/600x400/?knee,pads,sports,protection");
+                "https://source.unsplash.com/600x400/?knee,pads,basketball,protection");
 
         add("bsk_dribb","Дриблинг-тренажёр (10 шт)","🎯","Конусы",55000,"basketball","beginner",25,
-                "https://source.unsplash.com/600x400/?sport,training,cones,agility");
+                "https://source.unsplash.com/600x400/?agility,cones,training,basketball");
 
         add("bsk_net","Сетка для кольца","🥅","Нейлон",25000,"basketball","all",60,
                 "https://source.unsplash.com/600x400/?basketball,hoop,net,ring");
@@ -37,122 +37,121 @@ public class Catalog {
 
         // ⚽ ФУТБОЛ
         add("ftb_ball","Мяч футбольный Adidas","⚽","Размер 5",95000,"football","all",35,
-                "https://source.unsplash.com/600x400/?football,soccer,ball,adidas");
+                "https://source.unsplash.com/600x400/?soccer,ball,adidas,football");
 
         add("ftb_boot_g","Бутсы для травы","👟","Шипы",280000,"football","all",18,
-                "https://source.unsplash.com/600x400/?football,boots,cleats,grass");
+                "https://source.unsplash.com/600x400/?football,cleats,boots,grass");
 
         add("ftb_boot_h","Бутсы для зала","👟","Футзал",195000,"football","all",22,
                 "https://source.unsplash.com/600x400/?futsal,indoor,football,shoes");
 
         add("ftb_jersey","Форма футбольная","🏅","Комплект",130000,"football","all",40,
-                "https://source.unsplash.com/600x400/?football,soccer,jersey,uniform");
+                "https://source.unsplash.com/600x400/?soccer,jersey,football,uniform");
 
         add("ftb_shin","Щитки футбольные","🛡","Защита",35000,"football","all",45,
-                "https://source.unsplash.com/600x400/?football,shin,guards,protection");
+                "https://source.unsplash.com/600x400/?soccer,shin,guards,protection");
 
         add("ftb_gloves","Перчатки вратаря","🧤","Латекс",85000,"football","all",20,
-                "https://source.unsplash.com/600x400/?goalkeeper,gloves,football,latex");
+                "https://source.unsplash.com/600x400/?goalkeeper,gloves,soccer,latex");
 
         add("ftb_ladder","Лестница координации","🪜","6м",60000,"football","beginner",30,
-                "https://source.unsplash.com/600x400/?agility,ladder,training,sport");
+                "https://source.unsplash.com/600x400/?agility,ladder,training,soccer");
 
         add("ftb_goal","Мини-ворота","🥅","Складные",170000,"football","all",12,
-                "https://source.unsplash.com/600x400/?football,mini,goal,portable");
+                "https://source.unsplash.com/600x400/?soccer,mini,goal,portable");
 
 
         // 🏐 ВОЛЕЙБОЛ
         add("vb_ball","Мяч волейбольный","🏐","Официальный",80000,"volleyball","all",28,
-                "https://source.unsplash.com/600x400/?volleyball,ball");
+                "https://source.unsplash.com/600x400/?volleyball,ball,official");
 
         add("vb_net_b","Сетка пляжная","🏖","УФ-защита",150000,"volleyball","all",10,
-                "https://source.unsplash.com/600x400/?beach,volleyball,net,sand");
+                "https://source.unsplash.com/600x400/?beach,volleyball,net");
 
         add("vb_net_h","Сетка зальная","🏟","Официальная",200000,"volleyball","pro",8,
-                "https://source.unsplash.com/600x400/?volleyball,net,indoor,court");
+                "https://source.unsplash.com/600x400/?indoor,volleyball,net,court");
 
         add("vb_knee","Наколенники","🦵","Поролон",50000,"volleyball","all",55,
-                "https://source.unsplash.com/600x400/?volleyball,knee,pads,protection");
+                "https://source.unsplash.com/600x400/?volleyball,knee,pads");
 
         add("vb_shoes","Кроссовки Asics","👟","Для прыжков",350000,"volleyball","all",14,
-                "https://source.unsplash.com/600x400/?volleyball,asics,shoes,sneakers");
+                "https://source.unsplash.com/600x400/?volleyball,shoes,asics,sneakers");
 
         add("vb_pump","Насос","💨","Для мячей",20000,"volleyball","all",70,
-                "https://source.unsplash.com/600x400/?ball,pump,inflator,sport");
+                "https://source.unsplash.com/600x400/?ball,pump,inflator");
 
 
         // 🥊 БОКС
         add("box_gl_b","Перчатки 10oz","🥊","Начинающим",85000,"boxing","beginner",30,
-                "https://source.unsplash.com/600x400/?boxing,gloves,red");
+                "https://source.unsplash.com/600x400/?boxing,gloves,training");
 
         add("box_gl_p","Перчатки 14oz","🥊","Спарринг",180000,"boxing","pro",15,
-                "https://source.unsplash.com/600x400/?boxing,gloves,sparring,pro");
+                "https://source.unsplash.com/600x400/?boxing,gloves,sparring");
 
         add("box_bag","Груша","🏋","25кг",320000,"boxing","all",10,
-                "https://source.unsplash.com/600x400/?punching,bag,boxing,heavy");
+                "https://source.unsplash.com/600x400/?boxing,punching,bag,heavy");
 
         add("box_wraps","Бинты","🩹","4.5м",25000,"boxing","all",80,
-                "https://source.unsplash.com/600x400/?boxing,hand,wraps,bandage");
+                "https://source.unsplash.com/600x400/?boxing,hand,wraps");
 
         add("box_mouth","Капа","😬","Защита зубов",15000,"boxing","all",60,
-                "https://source.unsplash.com/600x400/?mouthguard,boxing,teeth,protection");
+                "https://source.unsplash.com/600x400/?mouthguard,boxing");
 
         add("box_helmet","Шлем","⛑","Защита",120000,"boxing","all",20,
-                "https://source.unsplash.com/600x400/?boxing,headgear,helmet,protection");
+                "https://source.unsplash.com/600x400/?boxing,headgear,helmet");
 
         add("box_pads","Лапы","🤜","Тренерские",95000,"boxing","all",25,
-                "https://source.unsplash.com/600x400/?boxing,focus,pads,mitts,trainer");
+                "https://source.unsplash.com/600x400/?boxing,focus,pads,trainer");
 
         add("box_skip","Скакалка","💫","Скоростная",30000,"boxing","all",45,
-                "https://source.unsplash.com/600x400/?jump,rope,speed,boxing,skipping");
+                "https://source.unsplash.com/600x400/?jump,rope,boxing,skipping");
 
 
         // 🥋 MMA
         add("mma_gl","Перчатки MMA","🥋","4 oz",75000,"mma","all",25,
-                "https://source.unsplash.com/600x400/?mma,gloves,grappling");
+                "https://source.unsplash.com/600x400/?mma,gloves");
 
         add("mma_shorts","Шорты MMA","🩳","Гибкие",65000,"mma","all",35,
-                "https://source.unsplash.com/600x400/?mma,fight,shorts");
+                "https://source.unsplash.com/600x400/?mma,shorts,fight");
 
         add("mma_rash","Рашгард","👕","Компрессионный",90000,"mma","all",28,
-                "https://source.unsplash.com/600x400/?rashguard,compression,mma,bjj");
+                "https://source.unsplash.com/600x400/?rashguard,mma,compression");
 
         add("mma_shin","Щитки","🛡","Голень",70000,"mma","all",40,
-                "https://source.unsplash.com/600x400/?mma,shin,guards,leg,protection");
+                "https://source.unsplash.com/600x400/?mma,shin,guards");
 
         add("mma_bag","Груша напольная","🏋","160 см",480000,"mma","all",6,
                 "https://source.unsplash.com/600x400/?freestanding,punching,bag,mma");
 
         add("mma_rope","Канат","🪢","9м",195000,"mma","pro",8,
-                "https://source.unsplash.com/600x400/?battle,rope,gym,training");
+                "https://source.unsplash.com/600x400/?battle,rope,training");
 
 
         // 🥋 КАРАТЭ
         add("krt_gi_b","Кимоно","🥋","Начинающий",75000,"karate","beginner",20,
-                "https://source.unsplash.com/600x400/?karate,gi,kimono,white");
+                "https://source.unsplash.com/600x400/?karate,gi,kimono");
 
         add("krt_gi_p","Кимоно WKF","🥋","Соревн.",180000,"karate","pro",10,
-                "https://source.unsplash.com/600x400/?karate,wkf,gi,competition,uniform");
+                "https://source.unsplash.com/600x400/?karate,gi,competition");
 
         add("krt_belt","Пояса","🎽","Набор",45000,"karate","all",30,
-                "https://source.unsplash.com/600x400/?karate,belt,colored,martial,arts");
+                "https://source.unsplash.com/600x400/?karate,belt");
 
         add("krt_gl","Перчатки","🥊","Кумите",65000,"karate","pro",18,
-                "https://source.unsplash.com/600x400/?karate,kumite,gloves");
+                "https://source.unsplash.com/600x400/?karate,gloves,kumite");
 
         add("krt_chest","Нагрудник","🛡","Защита",80000,"karate","all",15,
-                "https://source.unsplash.com/600x400/?karate,chest,protector,body,armor");
+                "https://source.unsplash.com/600x400/?karate,chest,protector");
 
         add("krt_helmet","Шлем","⛑","Маска",95000,"karate","all",12,
-                "https://source.unsplash.com/600x400/?karate,helmet,headgear,face,mask");
+                "https://source.unsplash.com/600x400/?karate,helmet,headgear");
 
         add("krt_mak","Макивара","🎯","Настенная",55000,"karate","all",20,
-                "https://source.unsplash.com/600x400/?makiwara,karate,striking,board,wall");
+                "https://source.unsplash.com/600x400/?makiwara,karate");
 
         add("krt_board","Доски","🪵","Разбивание",35000,"karate","all",40,
-                "https://source.unsplash.com/600x400/?karate,breaking,wooden,boards");
+                "https://source.unsplash.com/600x400/?karate,breaking,boards");
     }
-
     private static void add(String id, String name, String emoji, String desc,
                             double price, String cat, String level,
                             int stock, String img) {
